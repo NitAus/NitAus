@@ -14,6 +14,12 @@ I'm a Computer Science co-op student at the University of Guelph, interested in 
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/NithinAus) · [GitHub](https://github.com/NitAus)
+<a href="https://www.linkedin.com/in/NithinAus" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/NitAus" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 Open to co-op and internship opportunities.
